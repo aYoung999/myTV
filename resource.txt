@@ -4,6 +4,18 @@
 扁豆看电影1,http://39.153.130.167:35455/huya/16028551
 扁豆看电影2,http://39.153.130.167:35455/huya/21059623
 科幻梦工场,http://39.153.130.167:35455/huya/15152155
+小川侃电影,http://39.153.130.167:35455/huya/15870999
+涵哥评电影,http://39.153.130.167:35455/huya/16865726
+鱼丸电影,http://39.153.130.167:35455/huya/16615910
+亮哥讲电影,http://39.153.130.167:35455/huya/16144175
+亮哥讲电影2,http://39.153.130.167:35455/huya/29982687
+越哥说电影,http://39.153.130.167:35455/huya/15894162
+越哥说电影2,http://39.153.130.167:35455/huya/29982680
+止戈电影,http://39.153.130.167:35455/huya/19863777
+大象放映室,http://39.153.130.167:35455/huya/21277391
+恐怖电影解说,http://39.153.130.167:35455/huya/23419131
+阿良说剧,https://isus.cc/php/huya.php?id=20488841
+
 资源,#genre#
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,https://bp-livewxtytx.bestv.cn/live/wxty.ts 
@@ -22,3 +34,14 @@
 凤凰香港,http://r.jdshipin.com/yDoTN
 
 测试,#genre#
+凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
+凤凰资讯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
+凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
+凤凰香港1,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+凤凰卫视1,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰资讯1,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+五星体育,http://m.061899.xyz/mg/wxty
+劲爆体育,http://m.061899.xyz/mg/jbty
+爱上4K,http://route.079915.xyz:4022/rtp/239.3.1.236:2000
+4K超清,http://route.079915.xyz:4022/rtp/239.3.1.249:8001
+CCTV-16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-16-4K_8000.m3u8 $蜀小果
