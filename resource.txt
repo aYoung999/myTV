@@ -23,6 +23,11 @@
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 劲爆体育,http://m.061899.xyz/mg/jbty
+新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+新视觉,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUMlVFwgKPJolUfLz83I6u33C-EZWfso2O1zPIVirs8iB7TGHwt9Kf__yl2J0wrRQXTKZLYwLq7y9YRf_4dcbG7kh0fzffGvD5eSnzJ-5gTHO5gddvhXiA0fA8MBLCQD--mM8ithI_zWWH7nTVhv3jiVecPEyOK7C9B7F1hAP-arS47Js9Z52e_FWIvSaFNbD3p-_fE-fl4MgLSUR_R1_k1g.m3u8?u=1756878715
+新视觉,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG2RE64HJWuOxiLmGsEtCnuc8knqj8qwJoTh93DJaByLpH_Or5w-4zsh5ZX3-pzjZJdPqXqDP8N1iaSS1ouJhvv0xycFnLecFvHyBUfSerEqGZJHYZPHmrhxxLp6ymsz1P1dFdu8Ojk5eOyiwZpu07_VHa4BiW2oMCHfQ8DA2tgrSWy7fvmHD7gs_SBQBYjlX2oOB4ZAP6B9r3tm7ofyy53Q.m3u8?u=1757123819
+
 
 凤凰中文,http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%9C%BA%E5%A4%A7%E5%B8%88/fhx.php?id=cn
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
@@ -46,4 +51,3 @@
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
 凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-
