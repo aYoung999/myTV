@@ -213,7 +213,7 @@ CCTV-16 4K,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:5999
 咪咕体育14,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225654/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育15,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225647/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225758/1.m3u8?$HLJYDIP 8M FHD
-
+咪咕体育17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225643/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育18,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225660/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育19,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225756/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育20,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225653/1.m3u8?$HLJYDIP 4M FHD
@@ -229,7 +229,6 @@ CCTV-16 4K,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:5999
 咪咕体育31,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225662/1.m3u8?$HLJYDIP 6M FHD
 咪咕体育32,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225639/1.m3u8?$HLJYDIP 4M FHD
 
-咪咕体育41,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225643/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育42,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225648/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育43,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225739/1.m3u8?$HLJYDIP 8M FHD
 咪咕体育44,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221226031/1.m3u8?$HLJYDIP 8M FHD
