@@ -70,9 +70,9 @@ CCTV-16 4K,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:5999
 咪咕体育34,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011519/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 咪咕体育35,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011520/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 咪咕体育37,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011522/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕体育50,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000031669/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 咪咕体育25,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000015470/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 咪咕体育36,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011521/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
-咪咕体育50,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000031669/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 睛彩竞技,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 咪咕体育39,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011530/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 睛彩广场舞,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
@@ -120,9 +120,9 @@ CCTV-16 4K,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:5999
 咪咕体育34,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$8M FHD
 咪咕体育35,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$8M FHD
 咪咕体育37,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$8M FHD
+咪咕体育50,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$5M FHD
 咪咕体育25,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$5M FHD
 咪咕体育36,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$8M FHD
-咪咕体育50,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$5M FHD
 睛彩竞技,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=001C366F865C602F58587E8BE8616930
 咪咕体育39,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$8M FHD
 睛彩广场舞,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011525/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=001C366F865C602F58587E8BE8616930
@@ -156,7 +156,7 @@ CCTV-16 4K,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:5999
 咪咕体育19,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225756/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育20,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225653/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育21,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225658/1.m3u8?$HLJYDIP 4M FHD
-
+咪咕体育22,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225739/1.m3u8?$HLJYDIP 8M FHD
 咪咕体育23,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225652/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育24,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225754/1.m3u8?$HLJYDIP 4M FHD
 咪咕体育26,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225648/1.m3u8?$HLJYDIP 4M FHD
@@ -165,12 +165,9 @@ CCTV-16 4K,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:5999
 咪咕体育30,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225645/1.m3u8?$HLJYDIP 6M FHD
 咪咕体育31,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225662/1.m3u8?$HLJYDIP 6M FHD
 咪咕体育32,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225639/1.m3u8?$HLJYDIP 4M FHD
-
-咪咕体育22,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225739/1.m3u8?$HLJYDIP 8M FHD
 咪咕体育37,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221226031/1.m3u8?$HLJYDIP 8M FHD
-
-咪咕体育25,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225737/1.m3u8?$HLJYDIP 6M HEVC FHD
 咪咕体育50,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225760/1.m3u8?$HLJYDIP 10M HEVC FHD
+咪咕体育25,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225737/1.m3u8?$HLJYDIP 6M HEVC FHD
 睛彩竞技,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 睛彩广场舞,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 睛彩篮球,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
